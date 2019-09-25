@@ -1,0 +1,47 @@
+.body {
+    background: grey;
+}
+
+.sticky {
+    position: fixed;
+    height: 140px;
+    background-color: whitesmoke;
+    color: navy;
+    border-bottom: 1px solid;
+    padding: 10px;
+    box-shadow: 0px 10px 18px #888888;
+    z-index: 10;
+    top: 0;
+}
+
+.jumbotron {
+    margin-top: 140px;
+    height: 300px;
+}
+
+.container {
+    background-color: lightblue;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.header {
+    display: inline;
+}
+
+.clicky {
+    height: 150px;
+    width: 150px;
+}
+
+.hero-logo:hover {
+    background-color: red;
+}
+
+footer {
+    background-color: grey;
+    height: 50px;
+    text-align: center;
+}
