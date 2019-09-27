@@ -9,7 +9,7 @@ function Game(props) {
                         <div class="col text-center p-4 hero-logo">
                             <img src={elem.image} 
                                 class="clicky" alt={elem.alt} 
-                                onClick={() => props.setMessage(elem.alt)}/>
+                                onClick={() => props.logoClick(elem.id)}/>
                         </div>
                     )
                     })

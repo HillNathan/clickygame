@@ -2,77 +2,92 @@
     {
         "id": 1,
         "image": "./assets/images/aquaman.jpg",
-        "alt": "aquaman logo"
+        "alt": "aquaman logo",
+        "clicked": false
     },
     {
         "id": 2,
         "image": "./assets/images/avengers.jpg",
-        "alt": "avengers logo"
+        "alt": "avengers logo",
+        "clicked": false
     },
     {
         "id": 3,
         "image": "./assets/images/batman.jpg",
-        "alt": "batman logo"
+        "alt": "batman logo",
+        "clicked": false
     },
     {
         "id": 4,
         "image": "./assets/images/captainamerica.jpg",
-        "alt": "captain america logo"
+        "alt": "captain america logo",
+        "clicked": false
     },
     {
         "id": 5,
         "image": "./assets/images/fantasticfour.jpg" ,
-        "alt": "fantastic four logo"
+        "alt": "fantastic four logo",
+        "clicked": false
     },
     {
         "id": 6,
         "image": "./assets/images/greenarrow.jpg",
-        "alt": "green arrow logo"
+        "alt": "green arrow logo",
+        "clicked": false
     },
     {
         "id": 7,
         "image": "./assets/images/greenlantern.jpg" ,
-        "alt": "green lantern logo"
+        "alt": "green lantern logo",
+        "clicked": false
     },
     {
         "id": 8,
         "image": "./assets/images/hawkeye.jpg",
-        "alt": "hawkeye logo"
+        "alt": "hawkeye logo",
+        "clicked": false
     },
     {
         "id": 9,
         "image": "./assets/images/ironman.jpg",
-        "alt": "ironman logo"
+        "alt": "ironman logo",
+        "clicked": false
     },
     {
         "id": 10,
         "image": "./assets/images/flash.jpg",
-        "alt": "flash logo"
+        "alt": "flash logo",
+        "clicked": false
     },
     {
         "id": 11,
         "image": "./assets/images/redtornado.jpg",
-        "alt": "red tornado logo"
+        "alt": "red tornado logo",
+        "clicked": false
     },
     {
         "id": 12,
         "image": "./assets/images/robin.jpg",
-        "alt": "robin logo"
+        "alt": "robin logo",
+        "clicked": false
     },
     {
         "id": 13,
         "image": "./assets/images/spiderman.jpg",
-        "alt": "spiderman logo"
+        "alt": "spiderman logo",
+        "clicked": false
     },
     {
         "id": 14,
         "image": "./assets/images/superman.jpg",
-        "alt": "superman logo"
+        "alt": "superman logo",
+        "clicked": false
     },
     {
         "id": 15,
         "image": "./assets/images/thor.jpg",
-        "alt": "thor logo"
+        "alt": "thor logo",
+        "clicked": false
     }
 ]
 

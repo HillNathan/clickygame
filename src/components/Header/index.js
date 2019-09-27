@@ -1,8 +1,6 @@
 import React from "react"
 
 function Header(props) {
-    console.log(props)
-
     return (
         <nav className="navbar sticky full-width">
             <div className="navbar-brand p-4">
