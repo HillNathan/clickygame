@@ -1,20 +1,22 @@
 import React from "react"
 
-function Header() {
+function Header(props) {
+    console.log(props)
+
     return (
-        <nav class="navbar sticky full-width">
-            <div class="navbar-brand p-4">
+        <nav className="navbar sticky full-width">
+            <div className="navbar-brand p-4">
                 <h4>Clicky Game</h4>
             </div>
                     
-            <div class="header header-center text-center">
-                <h4>Message to go here</h4>
+            <div className="header header-center text-center">
+                <h4>{ props.message }</h4>
             </div>
 
-            <div class="header header-left p-2 m-2">
-                Current Score: <span>##</span>
+            <div className="header header-left p-2 m-2">
+                Current Score: <span>{ props.currentScore }</span>
                 <hr />
-                Highest Score: <span>##</span>
+                Highest Score: <span>{ props.bestScore }</span>
             </div>
         </nav>
     )

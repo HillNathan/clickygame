@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/aquaman.jpg",
+        "alt": "aquaman logo"
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/avengers.jpg",
+        "alt": "avengers logo"
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/batman.jpg",
+        "alt": "batman logo"
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/captainamerica.jpg",
+        "alt": "captain america logo"
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/fantasticfour.jpg" ,
+        "alt": "fantastic four logo"
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/greenarrow.jpg",
+        "alt": "green arrow logo"
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/greenlantern.jpg" ,
+        "alt": "green lantern logo"
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/hawkeye.jpg",
+        "alt": "hawkeye logo"
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/ironman.jpg",
+        "alt": "ironman logo"
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/flash.jpg",
+        "alt": "flash logo"
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/redtornado.jpg",
+        "alt": "red tornado logo"
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/robin.jpg",
+        "alt": "robin logo"
+    },
+    {
+        "id": 13,
+        "image": "./assets/images/spiderman.jpg",
+        "alt": "spiderman logo"
+    },
+    {
+        "id": 14,
+        "image": "./assets/images/superman.jpg",
+        "alt": "superman logo"
+    },
+    {
+        "id": 15,
+        "image": "./assets/images/thor.jpg",
+        "alt": "thor logo"
+    }
+]
+
