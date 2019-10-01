@@ -2,13 +2,14 @@ import React from "react"
 
 function Game(props) {
     return (
-        <div class="container">
-            <div class="row justify-content-between p-5 m-2">
+        <div className="container">
+            <div className="row justify-content-between p-5 m-2">
                 {props.logos.map((elem,i) => {
                     return (
-                        <div class="col text-center p-4 hero-logo">
+                        <div className="col text-center p-4 hero-logo">
                             <img src={elem.image} 
-                                class="clicky" alt={elem.alt} 
+                                key={i}
+                                className="clicky" alt={elem.alt} 
                                 onClick={() => props.logoClick(elem.id)}/>
                         </div>
                     )
